@@ -29,4 +29,4 @@ Upon successful completion of this course, you will be able to:
 
 Please download the course syllabus from the link below:
 
-[Mechatronics_system_design_Syllabus.pdf](https://github.com/madibabaiasl/mechatronics-course/files/13814028/Mechatronics_system_design_Syllabus.pdf)
+[Mechatronics_system_design_Syllabus.pdf](https://github.com/madibabaiasl/mechatronics-course/files/13890668/Mechatronics_system_design_Syllabus.pdf)
