@@ -1,5 +1,3 @@
-<img width="468" height="36" alt="image" src="https://github.com/user-attachments/assets/71823cd9-772c-407e-ab49-abee2c11cfac" /># Mechatronics Systems Design 
-
 ## Course Description
 
 This undergraduate course introduces students to the interdisciplinary field of mechatronics, integrating mechanical systems, electronics, sensors, actuators, and embedded computing. Students will develop hands-on experience designing, prototyping, and testing intelligent systems using microcontrollers such as Arduino. Emphasis is placed on systems-level thinking, structured programming, and practical engineering applications through laboratories and project-based learning.
